@@ -24,3 +24,5 @@ Requirements:
 4) Database for downloads
 
 The code must be fully functional and workable.
+
+<img src="1.png" width="216" heigth="384"> <img src="2.png" width="216" heigth="384"> <img src="3.png" width="216" heigth="384">
